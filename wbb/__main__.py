@@ -109,21 +109,20 @@ async def help_command(_, message):
             [
                 [
                     InlineKeyboardButton(
-                        text="Help ❓",
+                        text="𝐇𝐄𝐋𝐏💫",
                         url=f"t.me/{BOT_USERNAME}?start=help",
                     ),
                     InlineKeyboardButton(
-                        text="Owner",
+                        text="𝐎𝐖𝐍𝐄𝐑💕",
                         url="https://t.me/godfatherakki",
                     ),
                 ],
                 [
                     InlineKeyboardButton(
-                        text="System Stats 💻",
-                        callback_data="stats_callback",
+                        text="𝐆𝐁𝐀𝐍-𝐋𝐎𝐆𝐒💥", url="https://t.me/AKKI_GBAN_LOGS"
                     ),
                     InlineKeyboardButton(
-                        text="Support 👨", url="https://t.me/greatpersonxd"
+                        text="𝐒𝐔𝐏𝐏𝐎𝐑𝐓💢", url="https://t.me/greatpersonxd"
                     ),
                 ],
             ]
@@ -136,25 +135,24 @@ async def help_command(_, message):
         [
             [
                 InlineKeyboardButton(
-                    text="Commands ❓", callback_data="bot_commands"
+                    text="𝐇𝐄𝐋𝐏💫", callback_data="bot_commands"
                 ),
                 InlineKeyboardButton(
-                    text="Owner",
+                    text="𝐎𝐖𝐍𝐄𝐑💕",
                     url="t.me/godfatherakki",
                 ),
             ],
             [
                 InlineKeyboardButton(
-                    text="System Stats 🖥",
-                    callback_data="stats_callback",
+                    text="𝐆𝐁𝐀𝐍-𝐋𝐎𝐆𝐒💥", url="https://t.me/greatpersonxd"
                 ),
                 InlineKeyboardButton(
-                    text="Support 👨", url="https://t.me/greatpersonxd"
+                    text="𝐒𝐔𝐏𝐏𝐎𝐑𝐓💢", url="https://t.me/greatpersonxd"
                 ),
             ],
             [
                 InlineKeyboardButton(
-                    text="Add Me To Your Group 🎉",
+                    text="𝐏𝐔𝐒𝐇 𝐌𝐄 𝐓𝐎 𝐘𝐎𝐔𝐑 𝐆𝐑𝐎𝐔𝐏🌀",
                     url=f"http://t.me/{BOT_USERNAME}?startgroup=new",
                 )
             ],
